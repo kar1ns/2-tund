@@ -26,3 +26,9 @@
 	}
 	echo "õnne!";
 ?>
+<br>
+<?php
+	//trüki välja kuupäev kujul : nädalapäev kupäev
+	echo date("l, m.d.y")
+
+?>
